@@ -8,5 +8,6 @@ read num2
 sum=$((num1+num2))
 ####print ouput
 echo "addition of $num1 and $num2 is:$sum"
+echo "First shellscript"
 
 
