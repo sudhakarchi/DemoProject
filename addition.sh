@@ -12,5 +12,6 @@ sum=$((num1+num2+num3))
 ####print ouput
 echo "addition of $num1 and $num2 and $num3 is:$sum"
 echo "First shellscript"
+echo "again committed same project"
 
 
